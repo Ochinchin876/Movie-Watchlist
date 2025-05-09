@@ -1,4 +1,4 @@
-# 🎬 Movie Watchlist App
+# 🎬 Movie Watchlist
 
 A full-stack movie and anime watchlist app where users can explore content from TMDB, search movies, view details, and maintain a personalized watchlist.
 
