@@ -188,6 +188,16 @@ const WatchPage = () => {
             </p>
             <p className="mt-4 text-lg">{content?.overview}</p>
           </div>
+          <div className="mt-4 flex flex-wrap gap-2">
+            {content?.genres?.map((genre) => (
+              <span
+                key={genre.id}
+                className="bg-pink-600 text-white px-3 py-1 rounded-full text-sm"
+              >
+                {genre.name}
+              </span>
+            ))}
+          </div>
           <img
             src={ORIGINAL_IMG_BASE_URL + content?.poster_path}
             alt="Poster image"
