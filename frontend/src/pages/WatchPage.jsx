@@ -188,7 +188,7 @@ const WatchPage = () => {
             </p>
             <p className="mt-4 text-lg">{content?.overview}</p>
           </div>
-          <div className="mt-4 flex flex-wrap gap-2">
+          {/* <div className="mt-4 flex flex-wrap gap-2">
             {content?.genres?.map((genre) => (
               <span
                 key={genre.id}
@@ -197,7 +197,7 @@ const WatchPage = () => {
                 {genre.name}
               </span>
             ))}
-          </div>
+          </div> */}
           <img
             src={ORIGINAL_IMG_BASE_URL + content?.poster_path}
             alt="Poster image"
