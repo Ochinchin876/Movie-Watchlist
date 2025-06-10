@@ -41,12 +41,13 @@ Displays selected movie info: poster, overview, ratings, and related movies from
 
 🔍 Search Page
 Search content across three tabs: Movies, Anime, and People — showing thumbnails and names.
-![chronoflix_ watch movies, TV shows   anime online - Google Chrome 6_10_2025 8_59_31 PM](https://github.com/user-attachments/assets/8ae15684-c638-462c-8f11-23a57aa0101d)
+![chronoflix_ watch movies, TV shows   anime online - Google Chrome 6_10_2025 9_00_26 PM](https://github.com/user-attachments/assets/1e67cb43-e671-4a45-ad67-8054459c568d)
 
 
 📂 Personalized Watchlist
 Organized into tabs by status: Watching, Completed, Planned, On Hold, Dropped. Easily add/remove items.
-![chronoflix_ watch movies, TV shows   anime online - Google Chrome 6_10_2025 9_00_26 PM](https://github.com/user-attachments/assets/cc2ea215-d415-46fa-a556-a0bd85a7c57a)
+![chronoflix_ watch movies, TV shows   anime online - Google Chrome 6_10_2025 8_59_31 PM](https://github.com/user-attachments/assets/4795b156-ae10-4d85-8e22-c48b4a1c377a)
+
 
 
 
